@@ -38,7 +38,7 @@ The best letters are **strong research letters** that come from a professor who 
 I personally received a lot of conflicting advice on how the SoP should be written. Having people read through your SoP and give feedback can be really helpful. However, at the end of the day it is *your* statement about why you want to do a PhD, and you know best the answer to that question. Get lots of feedback, but always remember you can choose which feedback to listen to!
 
 # Contacting Professors
-Emailing potential advisors ahead of the app deadlines can make you stand out to potential advisors. However, it is not a hard requirement. If you are doing it, make sure your emails leave a good impression by writing them well and tailoring them to each professor (no form emails!)
+Emailing potential advisors ahead of the app deadlines can help you stand out/establish rapport. However, it is not a hard requirement. If you are doing it, make sure your emails leave a good impression by writing them well and tailoring them to each professor (no form emails!)
 - [How to Write Cold Emails by Jia-Bin Huang](https://twitter.com/jbhuang0604/status/1420611683035324425?s=20)
 - [Cold Email Template by Casey Fiesler](https://twitter.com/cfiesler/status/1301907707579031555?s=20)
 - [Contacting Potential PhD Advisors by Casey Fiesler (youtube video)](https://www.youtube.com/watch?v=XPM22bWTjRk)
