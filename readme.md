@@ -23,6 +23,7 @@ Aside from cost and time, you'll also want to apply to programs you would actual
 - [Casey Fiesler's guide to rec letters](https://www.youtube.com/watch?v=G17HyFybvKM&list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I)
 - [Matt Might's guide to rec letters](https://matt.might.net/articles/how-to-recommendation-letter/)
 - [Advice to Students Asking for Recommendation Letters by Rajit Manohar](http://vlsi.cornell.edu/~rajit/recletters.html)
+  
 Ask for recs early on - like, multiple months before the deadline! You don't want your recommenders to cram your letters. You will have to be the one to keep track of which letters your recommenders have submitted already. Don't be afraid to gently follow up with your writers if needed.
 
 When you ask someone to write letters for you, **make sure you ask if they are comfortable writing you a strong recommendation letter.** This gives them an out to say if they aren't comfortable writing you a strong letter - which is **good for you, because then you can ask someone else who will write you a strong letter.**
@@ -33,6 +34,7 @@ The best letters are **strong research letters** that come from a professor who 
 - [Repository of sample CS SoPs created by Zhaofeng Wu, Alexis Ross, and Shannon Shen](https://cs-sop.notion.site/cs-sop/CS-PhD-Statements-of-Purpose-df39955313834889b7ac5411c37b958d)
 - [Do's and don'ts for SoPs by Vijay Chidambaram](https://twitter.com/vj_chidambaram/status/933388419589459969?s=20)
 - [MIT EECS - What faculty are looking for in essays](https://www.eecs.mit.edu/academics/graduate-programs/admission-process/what-faculty-members-are-looking-for-in-a-grad-school-application-essay/)
+  
 I personally received a lot of conflicting advice on how the SoP should be written. Having people read through your SoP and give feedback can be really helpful. However, at the end of the day it is *your* statement about why you want to do a PhD, and you know best the answer to that question. Get lots of feedback, but always remember you can choose which feedback to listen to!
 
 # Contacting Professors
