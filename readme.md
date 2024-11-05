@@ -3,7 +3,9 @@ A repository of resources for PhD applicants, with a focus on CS-specific advice
 A meta-note on application advice: PhD applications are very personalized compared to undergrad (or even some masters) admissions. At many universities, what matters most is finding an advisor who wants you as their PhD student. However, different advisors can look for very different things - some advisors care a lot about grades while others barely look at them, some are looking for students who will fit in well with the existing group, some prefer to recruit from specific undergrad institutions, etc. Thus, while it is helpful to read peoples' advice, there is no single correct way to go about PhD admissions. It also goes without saying that the things I say here are my own personal opinion and might not apply perfectly to your situation. Still, I hope it helps to hear my perspective!
 
 It's worth placing stronger emphasis on advice from people within your field or subfield, because it's probably more locally applicable. Also, if a potential advisor has advice for PhD applications (e.g. on their website or blog), pay close attention to it - it probably hints at what they're looking for in applicants to their own labs.
+
 - [Casey Fiesler's Youtube series on applying for PhDs](https://www.youtube.com/playlist?list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I)
+- [Lace Padilla's Youtube series on thriving in academia (including PhD applications)](https://www.youtube.com/playlist?list=PLe9dkYfBBHFkJUmqluDocwGuxaZ3y5Zkm)
 - [A Survival Guide to a PhD by Andrej Karpathy](https://karpathy.github.io/2016/09/07/phd/)
 - [Applying to PhD Programs in CS by Mor Harchol-Balter](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 - [Applying for a PhD by Catherine Yeh](https://catherinesyeh.github.io/old-site/resources)
