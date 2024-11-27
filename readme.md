@@ -4,7 +4,7 @@ A meta-note on application advice: PhD applications are very personalized compar
 
 It goes without saying that the things I say here are based on my personal experience and might not apply perfectly to your situation. Still, I hope it helps to hear my perspective!
 
-Also, it's worth placing stronger emphasis on advice from people within your field or subfield, because it's probably more locally applicable. Also, if a potential advisor has advice for PhD applications (e.g. on their website or blog), pay close attention to it - it probably hints at what they're looking for in applicants to their own labs.
+It's worth placing stronger emphasis on advice from people within your field or subfield, because it's probably more locally applicable. Also, if a potential advisor has advice for PhD applications (e.g. on their website or blog), pay close attention to it - it probably hints at what they're looking for in applicants to their own labs.
 
 Some good general resources about the entire application process:
 - [Casey Fiesler's Youtube series on applying for PhDs](https://www.youtube.com/playlist?list=PLPA3GFqdHv_oL8gRg-44TmvMzjcFRMH4I)
