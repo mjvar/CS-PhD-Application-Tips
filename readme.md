@@ -52,7 +52,7 @@ Emailing potential advisors ahead of the app deadlines can help you stand out/es
 You may get a range of responses from emailing advisors - they may not reply, they may send a polite message along the lines of "I look forward to reading your application", or they may be interested in meeting you and talking more. Getting meetings is a slightly positive signal since it means someone is willing to spend time on getting to know you. That being said, don't read too much into any of these responses - I was accepted by some advisors who didn't reply to me, and was rejected by some advisors who I had Zoom calls with.
 
 # Mentorship
-Many departments offer mentorship programs for applicants (such as [Toronto GAAP](https://sites.google.com/view/torontogaap) or [CMU SCS GASP](https://www.cs.cmu.edu/academics/phd/application-support)). Usually, this entails being matched with a current student who can provide feedback on your application, SoP, etc. Look for these early on as many operate on a rolling basis.
+Many departments offer mentorship programs for applicants (such as [Toronto GAAP](https://sites.google.com/view/torontogaap) or [CMU SCS GASP](https://www.cs.cmu.edu/academics/phd/application-support)). Usually, this entails being matched with a current student who can provide feedback on your application, SoP, etc. Look for these early on as many operate on a rolling basis. Aside from formal mentorship programs, it's also a good idea to ask for advice from a) any profs/advisors you've already had, and b) grad students who you know or have worked with. 
 - [List of CS PhD mentorship programs (and lots of other resources!) by Chinasa T. Okolo](https://github.com/chinasaokolo/csGraduateApps)
 
 # Choosing Where to Go
